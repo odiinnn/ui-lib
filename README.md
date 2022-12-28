@@ -25,11 +25,13 @@
 npm install
 ```
 
-## Before coding
+## Before start
 
-### **Please edit package.json**
+### Please edit package.json
 
 ## Usage
+
+### Please use node v16.19.0 
 
 For storybook presentation
 ```sh
